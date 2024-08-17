@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Aula01</string>
     <string name= "ola">Olá</string>
+    <string name="bt1">1</string>
+    <string name="bt2">2</string>
+
 </resources>
